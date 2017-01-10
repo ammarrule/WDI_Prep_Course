@@ -1,0 +1,19 @@
+.set1 {
+    width: 200px;
+    padding: 10px 20px;
+    border: 2px dotted;
+    margin: 30px;
+    color: white;
+    background-color: darkgray;
+    box-sizing: content-box;
+}
+.image{ 
+    margin-bottom: 20px;
+}
+.pic1 {
+    padding: 10px;
+    background: lightgray;
+}
+.pic2 {
+    border: 10px solid lightgray;
+}
