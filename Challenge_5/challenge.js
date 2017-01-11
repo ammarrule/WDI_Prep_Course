@@ -30,3 +30,7 @@ console.log(x)
 
 var x=parseInt("Hello World")
 console.log(x)
+
+var x='34'
+var y= 5
+console.log(x+y)
